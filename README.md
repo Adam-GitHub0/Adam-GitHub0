@@ -6,6 +6,7 @@ MSc Cyber Security student at ETH Zürich, interested in applied cryptography, p
 
 - [ACMEv2 certificate client](https://github.com/Adam-GitHub0/acmev2-certificate-client) — Python implementation of certificate issuance, DNS/HTTP challenges, and JOSE/JWS signing.
 - [Distributed algorithms in Java](https://github.com/Adam-GitHub0/distributed-algorithms-java) — reliable broadcast, per-sender FIFO delivery, and multi-shot lattice agreement over UDP.
+- [Cardiovascular disease prediction](https://github.com/Adam-GitHub0/ml-cs433-cardiovascular-risk) — EPFL CS-433 team project on BRFSS survey data, preprocessing, class balancing, and regression models.
 - [Merged sbt contribution](https://github.com/sbt/sbt/pull/7417) from my Scala Center work on Twirl and Metals.
 
 My ETH research covers lattice-based threshold signatures, zero-knowledge proofs, and code-based cryptography.
