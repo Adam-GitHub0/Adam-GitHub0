@@ -1,10 +1,10 @@
 # Adam Mernissi
 
-MSc Cyber Security student at ETH Zürich, interested in applied cryptography, protocol security, distributed systems, and software engineering.
+ETH Zürich MSc Cyber Security student focused on security engineering and secure systems. My experience spans network vulnerability assessment, protocol analysis, software tooling, distributed systems, and applied cryptography.
 
-## Projects and contributions
+## Selected projects and contributions
 
-- [ACMEv2 certificate client](https://github.com/Adam-GitHub0/acmev2-certificate-client) — Python implementation of certificate issuance, DNS/HTTP challenges, and JOSE/JWS signing.
+- [ACMEv2 certificate client](https://github.com/Adam-GitHub0/acmev2-certificate-client) — Python implementation of a security-sensitive certificate issuance protocol, with DNS/HTTP challenges and JOSE/JWS signing.
 - [Formal analysis of PACE and OTR](https://github.com/Adam-GitHub0/formal-methods-protocol-analysis) — Tamarin models, saved proofs, and a course project report on secrecy and authentication.
 - [Distributed algorithms in Java](https://github.com/Adam-GitHub0/distributed-algorithms-java) — reliable broadcast, per-sender FIFO delivery, and multi-shot lattice agreement over UDP.
 - [Versus](https://github.com/versus-project/versus-app) — team sports app; contributed location, map, and search features.
@@ -12,6 +12,6 @@ MSc Cyber Security student at ETH Zürich, interested in applied cryptography, p
 - [Collaborative filtering ensemble](https://github.com/Adam-GitHub0/cil2024-collaborative-filtering) — ETH CIL 2024 team project comparing matrix factorization and neural recommenders, with ensemble blending; [5th place on Kaggle](https://www.kaggle.com/competitions/ethz-cil-collaborative-filtering-2024/leaderboard).
 - [Merged sbt contribution](https://github.com/sbt/sbt/pull/7417) from my Scala Center work on Twirl and Metals.
 
-My ETH research covers lattice-based threshold signatures, zero-knowledge proofs, and code-based cryptography.
+At ETH Cyber Group, I conducted network vulnerability assessments with Greenbone/OpenVAS and recommended mitigations. My ETH research covers lattice-based threshold signatures, zero-knowledge proofs, and code-based cryptography.
 
 [LinkedIn](https://www.linkedin.com/in/adam-mernissi-0a060228b/)
