@@ -4,7 +4,7 @@ ETH Zürich MSc Cyber Security student interested in security engineering, distr
 
 ## Selected projects and contributions
 
-- [ACMEv2 certificate client](https://github.com/Adam-GitHub0/acmev2-certificate-client) — Python implementation of a security-sensitive certificate issuance protocol, with DNS/HTTP challenges and JOSE/JWS signing.
+- [ACMEv2 certificate client](https://github.com/Adam-GitHub0/acmev2-certificate-client) — Python implementation of certificate issuance, DNS/HTTP challenges, and JOSE/JWS signing.
 - [Formal analysis of PACE and OTR](https://github.com/Adam-GitHub0/formal-methods-protocol-analysis) — Tamarin models, saved proofs, and a course project report on secrecy and authentication.
 - [Distributed algorithms in Java](https://github.com/Adam-GitHub0/distributed-algorithms-java) — reliable broadcast, per-sender FIFO delivery, and multi-shot lattice agreement over UDP.
 - [Versus](https://github.com/versus-project/versus-app) — team sports app; contributed location, map, and search features.
