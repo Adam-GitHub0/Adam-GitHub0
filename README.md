@@ -1,6 +1,6 @@
 # Adam Mernissi
 
-ETH Zürich MSc Cyber Security student focused on security engineering and secure systems. My experience spans network vulnerability assessment, protocol analysis, software tooling, distributed systems, and applied cryptography.
+ETH Zürich MSc Cyber Security student interested in security engineering, distributed systems, and applied cryptography.
 
 ## Selected projects and contributions
 
@@ -12,6 +12,6 @@ ETH Zürich MSc Cyber Security student focused on security engineering and secur
 - [Collaborative filtering ensemble](https://github.com/Adam-GitHub0/cil2024-collaborative-filtering) — ETH CIL 2024 team project comparing matrix factorization and neural recommenders, with ensemble blending; [5th place on Kaggle](https://www.kaggle.com/competitions/ethz-cil-collaborative-filtering-2024/leaderboard).
 - [Merged sbt contribution](https://github.com/sbt/sbt/pull/7417) from my Scala Center work on Twirl and Metals.
 
-At ETH Cyber Group, I conducted network vulnerability assessments with Greenbone/OpenVAS and recommended mitigations. My ETH research covers lattice-based threshold signatures, zero-knowledge proofs, and code-based cryptography.
+My ETH research has covered lattice-based threshold signatures, zero-knowledge proofs, and code-based cryptography.
 
 [LinkedIn](https://www.linkedin.com/in/adam-mernissi-0a060228b/)
